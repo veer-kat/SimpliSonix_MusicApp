@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "765433121843",
+    "project_id": "simplisonixregi",
+    "storage_bucket": "simplisonixregi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765433121843:android:297bece7ec224bf1656746",
+        "android_client_info": {
+          "package_name": "com.example.simplisonix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAONArDOSTYuG-zSAmlqwwYXe--gyCQVpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
